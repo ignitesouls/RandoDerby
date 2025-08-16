@@ -9,9 +9,8 @@
 ---
 
 ## 📜 Event Format
-- Weekly custom Elden Ring randomizer seed.
-- Additional mod changes each week.
-- Race against any other participants to complete the objective.
+- Custom Elden Ring randomizer race every two weeks.
+- Additional mod changes each Derby.
 
 ---
 
@@ -53,6 +52,7 @@ Submit your time to the [Form](https://forms.gle/J6EWPiT24Ca9cwdE7)
 
 ## 💬 Join the Community
 [Join Ignite](https://discord.gg/ignitesouls)
+
 
 
 
