@@ -42,4 +42,5 @@
 ---
 
 ## 💬 Join the Community
-[![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Now-blue?logo=discord&logoColor=white)](YOUR_DISCORD_INVITE_HERE)
+[![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Now-blue?logo=discord&logoColor=white)](https://discord.gg/ignitesouls)
+
