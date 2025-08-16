@@ -51,6 +51,7 @@ Submit your time to the [Form](https://forms.gle/J6EWPiT24Ca9cwdE7)
 ---
 
 ## 💬 Join the Community
-[![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Now-blue?logo=discord&logoColor=white)](https://discord.gg/ignitesouls)
+[Join Ignite](https://discord.gg/ignitesouls)
+
 
 
