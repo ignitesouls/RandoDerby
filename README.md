@@ -41,6 +41,7 @@
 3. Any rules if not stated, will be referred from the Glitchless Speedrun Rules. 
 4. Stake Skips that sequence break are banned. Ex. Radahn Stake Skip and Snowfield Stake Skip.
 5. Mods that don't change gameplay are allowed.
+6. You may use livesplit with soulssplitter and are encouraged to do so as it saves time. 
 
 ---
 
@@ -52,6 +53,7 @@ Submit your time to the [Form](https://forms.gle/J6EWPiT24Ca9cwdE7)
 
 ## 💬 Join the Community
 [Join Ignite](https://discord.gg/ignitesouls)
+
 
 
 
