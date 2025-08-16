@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="Rando Derby Logo" width="300"/>
+  <img src="./assets/logo.png" alt="Rando Derby Logo" width="301"/>
 </p>
 
 # 🏇 Rando Derby
@@ -52,6 +52,7 @@ Submit your time to the [Form](https://forms.gle/J6EWPiT24Ca9cwdE7)
 
 ## 💬 Join the Community
 [Join Ignite](https://discord.gg/ignitesouls)
+
 
 
 
